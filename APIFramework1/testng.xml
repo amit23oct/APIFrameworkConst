@@ -4,7 +4,13 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="org.testing.TestScripts.InsertNewKeyData"/>
-      
+      <class name="org.testing.TestScripts.DeleteReq"/>
+      <class name="org.testing.TestScripts.PostRequestTC"/>
+      <class name="org.testing.TestScripts.GetRequest"/>
+      <class name="org.testing.TestScripts.UpdateData"/>
+      <class name="org.testing.TestScripts.GetAllData"/>
+      <class name="org.testing.TestScripts.PutReqTC5"/>
+      <class name="org.testing.TestScripts.GetPerticularData"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
